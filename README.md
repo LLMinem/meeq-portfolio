@@ -1,1 +1,1 @@
-# Meeq Portfolio Website
+# meeq-portfolio
